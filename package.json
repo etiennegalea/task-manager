@@ -1,0 +1,34 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "task manager built in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etiennegalea/task-manager.git"
+  },
+  "keywords": [
+    "js",
+    "express-js",
+    "mongodb",
+    "react"
+  ],
+  "author": "Etienne Galea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etiennegalea/task-manager/issues"
+  },
+  "homepage": "https://github.com/etiennegalea/task-manager#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "http": "^0.0.1-security",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.0"
+  }
+}
